@@ -1,6 +1,2 @@
 # Data_Assignments
-Data Exploration: Basic information about the dataset, such as checking for missing values.
-
-Data Cleaning: Filling null values with zero.
-
-Further cells likely continue with exploratory data analysis (EDA) and visualizations, possibly using Matplotlib and NumPy. The notebook appears to be structured for an in-depth analysis of student data.
+Welcome to my repository for data analysis assignments! Here, I upload various assignments that involve working with diverse datasets, implementing data cleaning and wrangling techniques, conducting Exploratory Data Analysis (EDA), and visualizing data. This repository showcases my practical work with essential data analysis libraries in Python, such as Pandas, NumPy, Matplotlib, and Seaborn.
